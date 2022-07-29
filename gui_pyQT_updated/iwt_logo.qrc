@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="iwt_logo">
+    <file>iwt_logo.png</file>
+  </qresource>
+</RCC>
